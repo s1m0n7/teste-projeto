@@ -11,3 +11,5 @@ git commit -m "comentario" -> cria um lançamento das alterações que adicionou
 ----------------
 git push -> envia pro servidor o arquivo modificado
 ----------------
+git merge nomeDaPrimeiraBase nomeDaSegundaCoisa
+_____________________________________________________
